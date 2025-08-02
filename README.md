@@ -5,13 +5,18 @@ Tripbooking is a modern mobile travel and tour application that allows users to 
 The app simplifies the travel planning process with its user-friendly interface and motivates you to embark on new adventures with inspiring visuals.
 
 ✨ Features
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-02 at 10 32 27" src="https://github.com/user-attachments/assets/bad870a4-7e1c-4c53-ad54-e80f036f9ef4" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-02 at 10 32 24" src="https://github.com/user-attachments/assets/f6473e19-5dd4-4e41-a27f-982b1fe95e6a" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-02 at 10 32 22" src="https://github.com/user-attachments/assets/0f191614-d700-465c-9d40-f3aba8d4f27f" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-02 at 10 32 16" src="https://github.com/user-attachments/assets/5ca8cee9-e531-4ee3-ad41-c3d5a4de6ad0" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-02 at 10 32 13" src="https://github.com/user-attachments/assets/a22fe878-5b21-4cef-9a97-29509338f28e" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-02 at 10 32 08" src="https://github.com/user-attachments/assets/21f05e81-42ea-4a21-b63f-38c1d9811392" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-02 at 10 32 03" src="https://github.com/user-attachments/assets/a17668f6-23ee-495f-b819-dfa90ae89bc3" />
+<img width="4000" height="2245" alt="giris" src="https://github.com/user-attachments/assets/ad414db5-e90a-4372-b924-1131575ceb5e" />
+<img width="4000" height="2245" alt="uyeol" src="https://github.com/user-attachments/assets/c66173e7-9424-4d9e-9be7-09cb64a027f6" />
+<img width="4000" height="2245" alt="main" src="https://github.com/user-attachments/assets/f1407eb8-f547-4fcd-9757-555d9cfa429f" />
+<img width="4000" height="2245" alt="profile" src="https://github.com/user-attachments/assets/2bf0af1c-e744-45d0-92e4-54462ddd98ac" />
+<img width="4000" height="2245" alt="inboard" src="https://github.com/user-attachments/assets/8fad45a6-dd74-423c-8039-12dc7f73088b" />
+<img width="4000" height="2245" alt="details" src="https://github.com/user-attachments/assets/1335a76a-eb07-4a51-9b6a-921923c0d4c0" />
+<img width="4000" height="2245" alt="details1" src="https://github.com/user-attachments/assets/35b21a46-b1ba-4087-841e-595a334e3bad" />
+
+
+
+
+
 
 User Management (Authentication): Securely create a new account (SignUpView), log into an existing one (LoginView), and manage user sessions (AuthManager).
 
