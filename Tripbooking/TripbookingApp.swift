@@ -1,17 +1,21 @@
-//
-//  TripbookingApp.swift
-//  Tripbooking
-//
-//  Created by Hakan Kaba on 28.07.2025.
-//
-
 import SwiftUI
 
 @main
-struct TripbookingApp: App {
+struct TripBookingApp: App {
+    @StateObject var authManager = AuthManager()
+    // Uygulamanın ilk kez başlatılıp başlatılmadığını kontrol eden durum değişkeni
+    @AppStorage("hasLaunchedBefore") var hasLaunchedBefore: Bool = false
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            // Eğer uygulama daha önce başlatılmadıysa onboarding'i göster
+            if !hasLaunchedBefore {
+                OnboardingView(showOnboarding: $hasLaunchedBefore)
+            } else {
+                // Aksi takdirde, giriş durumuna göre LoginView veya HomeView'i göster
+                LoginView()
+                    .environmentObject(authManager)
+            }
         }
     }
 }
